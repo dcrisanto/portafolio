@@ -1,0 +1,14 @@
+main .section-information {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+main .section-information .image-container,
+.description {
+  max-width: 220px;
+}
+
+.my-photo {
+  width: 100%;
+}
